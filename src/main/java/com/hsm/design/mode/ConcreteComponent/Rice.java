@@ -8,6 +8,7 @@ import com.hsm.design.mode.Component.Food;
 public class Rice extends Food {
 
     public Rice() {
+        this.foodMenu="黄焖鸡米饭";
     }
     /**
      * 黄焖鸡米饭 价格

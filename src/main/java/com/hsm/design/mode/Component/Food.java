@@ -5,7 +5,8 @@ package com.hsm.design.mode.Component;
  */
 public abstract class Food {
 
-    String foodMenu="菜单";
+    //菜单
+    public String foodMenu;
 
     public String getFoodMenu() {
         return this.foodMenu;

@@ -1,9 +1,9 @@
-package com.hsm.design.mode.app;
+package com.hsm.design.mode.ornamenter.app;
 
-import com.hsm.design.mode.ConcreteComponent.Rice;
-import com.hsm.design.mode.ConcreteDecorator.Egg;
-import com.hsm.design.mode.ConcreteDecorator.Potato;
-import com.hsm.design.mode.ConcreteDecorator.Veg;
+import com.hsm.design.mode.ornamenter.ConcreteComponent.Rice;
+import com.hsm.design.mode.ornamenter.ConcreteDecorator.Egg;
+import com.hsm.design.mode.ornamenter.ConcreteDecorator.Potato;
+import com.hsm.design.mode.ornamenter.ConcreteDecorator.Veg;
 
 public class Test {
     

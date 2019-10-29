@@ -1,6 +1,6 @@
-package com.hsm.design.mode.ConcreteComponent;
+package com.hsm.design.mode.ornamenter.ConcreteComponent;
 
-import com.hsm.design.mode.Component.Food;
+import com.hsm.design.mode.ornamenter.Component.Food;
 
 /**
  * 被装饰的对象：黄焖鸡米饭

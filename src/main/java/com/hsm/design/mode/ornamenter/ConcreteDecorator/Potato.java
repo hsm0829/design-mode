@@ -1,7 +1,7 @@
-package com.hsm.design.mode.ConcreteDecorator;
+package com.hsm.design.mode.ornamenter.ConcreteDecorator;
 
-import com.hsm.design.mode.Component.Food;
-import com.hsm.design.mode.Decorator.FootDecorator;
+import com.hsm.design.mode.ornamenter.Component.Food;
+import com.hsm.design.mode.ornamenter.Decorator.FootDecorator;
 
 public class Potato extends FootDecorator {
 

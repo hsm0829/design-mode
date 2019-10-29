@@ -1,6 +1,6 @@
-package com.hsm.design.mode.Decorator;
+package com.hsm.design.mode.ornamenter.Decorator;
 
-import com.hsm.design.mode.Component.Food;
+import com.hsm.design.mode.ornamenter.Component.Food;
 
 /**
  * 装饰者抽象类

@@ -1,4 +1,4 @@
-package com.hsm.design.mode.Component;
+package com.hsm.design.mode.ornamenter.Component;
 
 /**
  * 核心抽象类 Component

@@ -13,7 +13,7 @@ public class StrategyContext {
         this.strategyClasses = strategyClasses;
     }
 
-    public void takeClasses(){
+    public void takeClasses() {
         strategyClasses.operate();
     }
 }
